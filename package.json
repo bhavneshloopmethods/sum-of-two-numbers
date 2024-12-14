@@ -10,10 +10,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bhavneshloopmethods/test-npm-package.git"
+    "url": "git+https://github.com/bhavneshloopmethods/sum-of-two-numbers.git"
   },
   "bugs": {
-    "url": "https://github.com/bhavneshloopmethods/test-npm-package/issues"
+    "url": "https://github.com/bhavneshloopmethods/sum-of-two-numbers/issues"
   },
-  "homepage": "https://github.com/bhavneshloopmethods/test-npm-package#readme"
+  "homepage": "https://github.com/bhavneshloopmethods/sum-of-two-numbers#readme"
 }
