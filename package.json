@@ -1,6 +1,6 @@
 {
   "name": "sum-of-two-numbers-bhanu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "common error handler",
   "main": "index.js",
   "scripts": {
